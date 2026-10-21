@@ -33,7 +33,7 @@ This approach ensures that individual recommendations remain consistent with the
 
 ---
 
-## 2. Do Not Guess — Make Unknowns Explicit
+## 2. Do Not Guess - Make Unknowns Explicit
 
 Incomplete information should not be presented as verified product behavior or established internal policy.
 
